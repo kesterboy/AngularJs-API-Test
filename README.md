@@ -8,6 +8,6 @@ Download angular globally by type the following command on your terminal “npm 
 You can Download the from github or clone it “github.com/kestherigboeli/AngularJs-API-Test
 
 # Auto test Using nightwatchJs
-cd to the root folder "moveDB"
+cd to the root folder "movieDB"
 
 Type nighwatch tests from your termainal
