@@ -15,4 +15,4 @@ type "ng serve --open"
 # Auto test Using nightwatchJs
 cd to the root folder "autotesting" make sure your server is running
 
-Type nighwatch tests from your termainal
+To run the test Type "node nightwatch -e chrome"
